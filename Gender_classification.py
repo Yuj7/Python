@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 16:36:39 2021
 
-@author: yujie
-"""
 from sklearn import tree
 
 # height, weigth, shoe size
